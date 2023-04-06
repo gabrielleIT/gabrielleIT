@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gabrielle, an <a href="https://www.linkedin.com/in/gabrielle-mcneal-961850269//">IT Professional</a>☺</h1>
+<h1>Hi, I'm Gabrielle, an <a href="https://www.linkedin.com/in/gabrielle-mcneal-961850269//">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
